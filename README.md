@@ -57,3 +57,46 @@ Actualmente se encuentra en la etapa inicial de planificación y desarrollo de l
 ## Licencia
 
 Este proyecto se desarrolla con fines académicos.
+
+## Instalación y ejecución
+
+Para ejecutar InkaCode de manera local, sigue los siguientes pasos.
+
+### 1. Clonar el repositorio
+
+Abre una terminal y ejecuta:
+
+```bash
+git clone https://github.com/Aaron-3030/Inkacode.git
+```
+
+### 2. Entrar al proyecto
+
+```bash
+cd Inkacode
+```
+
+### 3. Abrir el proyecto
+
+Puedes abrir el archivo `index.html` directamente en tu navegador.
+
+También puedes utilizar una extensión como **Live Server** en Visual Studio Code para ejecutar el proyecto durante el desarrollo.
+
+### Requisitos
+
+Actualmente, InkaCode no requiere instalaciones adicionales ni dependencias externas.
+
+Solo necesitas:
+
+* Git
+* Un navegador web moderno
+* Visual Studio Code (recomendado)
+
+### 📥 Actualizar una copia existente
+
+Si ya tienes una copia del proyecto y quieres obtener los últimos cambios:
+
+```bash
+git pull origin master
+```
+
